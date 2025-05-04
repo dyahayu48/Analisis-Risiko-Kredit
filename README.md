@@ -2,6 +2,8 @@
 #💳 Credit Risk Analysis - Home Credit Project
 This project focuses on analyzing and predicting credit default risk using machine learning techniques based on real-world lending data from Home Credit. The goal is to support data-driven decision-making in loan approvals and provide strategic recommendations for credit policy improvement.
 #
+Link Dataset : https://drive.google.com/drive/folders/1AwDh1IdqJhczPshH1psqXsAF_jzkoRx6?usp=sharing
+#
 #🔍 Objective
 * Reduce false rejections of creditworthy customers caused by traditional risk assessment methods.
 * Customize loan structure (e.g., amount, term, interest) based on borrower risk profiles.
